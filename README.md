@@ -17,3 +17,5 @@ A list of useful programming project resources
 | [React Templates](https://cssdeck.com/picks/https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci) | some free react templates
 
 | [Graygrids](https://graygrids.com/) | Free Nice HTML Templates
+
+| [FeatherIcons](https://feathericons.com/) | Customize icons with desired colors
