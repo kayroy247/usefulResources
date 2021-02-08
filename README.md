@@ -21,3 +21,8 @@ A list of useful programming project resources
 | [FeatherIcons](https://feathericons.com/) | Customize icons with desired colors
 
 | [How to setup flashloan](https://medium.com/coinmonks/how-to-create-flash-loans-with-aave-part-2-ee3ba2f483f9) | Flashloan with Aave
+
+
+| [Solidity Design Patterns](https://github.com/fravoll/solidity-patterns) | Solidity Ethereum Design Patterns
+
+| [Flashloan with Aave](https://github.com/austintgriffith/scaffold-eth/tree/flash-loans-intro) | Aave Flashloan
