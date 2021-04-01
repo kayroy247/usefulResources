@@ -22,7 +22,8 @@ A list of useful programming project resources
 
 | [How to setup flashloan](https://medium.com/coinmonks/how-to-create-flash-loans-with-aave-part-2-ee3ba2f483f9) | Flashloan with Aave
 
-
 | [Solidity Design Patterns](https://github.com/fravoll/solidity-patterns) | Solidity Ethereum Design Patterns
 
 | [Flashloan with Aave](https://github.com/austintgriffith/scaffold-eth/tree/flash-loans-intro) | Aave Flashloan
+
+| [Tensei Js](https://tenseijs.com/docs/getting-started) | A nodejs graphql framework with social auth and the likes
