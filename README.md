@@ -27,3 +27,5 @@ A list of useful programming project resources
 | [Flashloan with Aave](https://github.com/austintgriffith/scaffold-eth/tree/flash-loans-intro) | Aave Flashloan
 
 | [Tensei Js](https://tenseijs.com/docs/getting-started) | A nodejs graphql framework with social auth and the likes
+
+| [Metatags io](https://metatags.io/) | A tool to preview how your url will look on Google and social media sites
