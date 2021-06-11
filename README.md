@@ -29,3 +29,5 @@ A list of useful programming project resources
 | [Tensei Js](https://tenseijs.com/docs/getting-started) | A nodejs graphql framework with social auth and the likes
 
 | [Metatags io](https://metatags.io/) | A tool to preview how your url will look on Google and social media sites
+
+| [Useful emoji markdowns](https://www.webfx.com/tools/emoji-cheat-sheet/) | A list of emoji markdowns
