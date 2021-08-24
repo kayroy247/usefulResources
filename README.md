@@ -31,3 +31,11 @@ A list of useful programming project resources
 | [Metatags io](https://metatags.io/) | A tool to preview how your url will look on Google and social media sites
 
 | [Useful emoji markdowns](https://www.webfx.com/tools/emoji-cheat-sheet/) | A list of emoji markdowns
+
+| [Chainlist](https://chainlist.org/) | A list several EVM networks
+
+| [Rinkeby stats](https://www.rinkeby.io/#stats) | Rinkeby network stats
+
+| [Ethereum Viewer](http://ethviewer.live/) | Real time monitoring of Ethereum mainnet blockchain
+
+| [Transaction visualization tool](https://txstreet.com/) | Ethereum transactions visualization tools
