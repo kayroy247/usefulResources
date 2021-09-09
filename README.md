@@ -39,3 +39,5 @@ A list of useful programming project resources
 | [Ethereum Viewer](http://ethviewer.live/) | Real time monitoring of Ethereum mainnet blockchain
 
 | [Transaction visualization tool](https://txstreet.com/) | Ethereum transactions visualization tools
+
+| [MIRO](https://miro.com/) | A design, architecture and visual flow tool
