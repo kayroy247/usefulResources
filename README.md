@@ -43,3 +43,5 @@ A list of useful programming project resources
 | [MIRO](https://miro.com/) | A design, architecture and visual flow tool
 
 | [Cron Expressions visualization](https://crontab.guru/) | Visual editor for cron-job expressions
+
+| [Faucet to recieve ETH, Matic](https://faucet.paradigm.xyz/) | Faucet for ETH, Matic, etc on multiple testnets
