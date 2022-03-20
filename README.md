@@ -30,3 +30,5 @@ A list of useful programming project resources
 | [EthersJs Online playground](https://playground.ethers.org/)                                                                           | A playground for practising with EthersJs functions                       |
 | [EVM OPCODES](https://ethervm.io/)                                                                                                     | Ethereum Virutual Machine OpCodes                                         |
 | [Deconstructing Solidity contract](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/) | Breakdown of Solidity contract with Opcodes                               |
+| [Visual Algorithm](https://visualgo.net/en)                                                                                            | A Visual Algorithm website                                                |
+| [Algorithm visualizer](https://algorithm-visualizer.org/)                                                                              | Algorithm visualizer                                                      |
