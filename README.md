@@ -32,3 +32,4 @@ A list of useful programming project resources
 | [Deconstructing Solidity contract](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/) | Breakdown of Solidity contract with Opcodes                               |
 | [Visual Algorithm](https://visualgo.net/en)                                                                                            | A Visual Algorithm website                                                |
 | [Algorithm visualizer](https://algorithm-visualizer.org/)                                                                              | Algorithm visualizer                                                      |
+| [Free Bootstrap templates](https://bootstrapmade.com/)                                                                                 | Free frontend templates                                                   |
