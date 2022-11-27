@@ -33,3 +33,4 @@ A list of useful programming project resources
 | [Visual Algorithm](https://visualgo.net/en)                                                                                            | A Visual Algorithm website                                                |
 | [Algorithm visualizer](https://algorithm-visualizer.org/)                                                                              | Algorithm visualizer                                                      |
 | [Free Bootstrap templates](https://bootstrapmade.com/)                                                                                 | Free frontend templates                                                   |
+| [React Hooks Playground](https://react-hooks-cheatsheet.surge.sh/)                                                                     | React Live Examples for all hooks                                         |
