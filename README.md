@@ -34,3 +34,4 @@ A list of useful programming project resources
 | [Algorithm visualizer](https://algorithm-visualizer.org/)                                                                              | Algorithm visualizer                                                      |
 | [Free Bootstrap templates](https://bootstrapmade.com/)                                                                                 | Free frontend templates                                                   |
 | [React Hooks Playground](https://react-hooks-cheatsheet.surge.sh/)                                                                     | React Live Examples for all hooks                                         |
+| [Consensys Blockchain Security DB](https://consensys.github.io/blockchainSecurityDB/)                                                  | A database of smart contract audit reports                                |
